@@ -1,0 +1,1 @@
+This is a simple command-line version of the classic Hangman game. The player guesses letters to uncover a hidden word. The game continues until the player either guesses the word or runs out of lives.
